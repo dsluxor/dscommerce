@@ -1,1 +1,1 @@
-# DS Commerce repo
+# DS Commerce
